@@ -1,0 +1,44 @@
+Game circle life
+
+
+
+it's all about a rocket ship.
+we will Give it some force to move in a particular direction.
+We've got to avoid bumping into the walls and obstacles and when we get to the end (Landing pad), We go to the next scene and load the new level.
+So we're going to be dealing with loading of scenes or levels as we can call them.
+The player (Rocket) will die when he failed to avoid bumping into the walls and obstacles.
+and have to restart.
+
+
+
+||-------------------------||
+
+
+
+How to play
+
+
+
+[W A S D] To control the rocket.
+[L] To load a new level.
+[C] Enable or Disable cheating mood.
+[Q] Quit the game.
+
+
+
+||-------------------------||
+
+
+
+NOTE!
+
+The cheat mood means that you can reach the landing pad even if you hit the obstacles.
+One click to start and one click to stop mood.
+
+
+
+
+
+
+Sincerely,
+Ahmad Moh. Abdu
